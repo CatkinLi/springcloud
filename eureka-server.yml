@@ -9,3 +9,6 @@ eureka:
     fetch-registry: false
     server-url:
       defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+userinfo:
+  username: catkin
+  password: 34343

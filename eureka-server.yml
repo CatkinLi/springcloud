@@ -11,4 +11,4 @@ eureka:
       defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
 userinfo:
   username: catkin
-  password: 34343
+  password: 123456

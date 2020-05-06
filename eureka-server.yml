@@ -10,5 +10,5 @@ eureka:
     server-url:
       defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
 user:
-  pass: 123
-  name: llll
+  pass: 1234
+  name: 4321
